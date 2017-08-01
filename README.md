@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is not actually my first site, but an exercise for Epicodus done with fellow students. At the end we went a little nuts with adding media _
+_This is not actually my first site, but an exercise for Epicodus done with fellow students. At the end we went a little nuts with adding media_
 
 ## Setup/Installation Requirements
 
